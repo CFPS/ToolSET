@@ -1,0 +1,8 @@
+#Ignore RAST-lib
+RAST-lib/*
+
+#Ignore backup filer fra text editor
+*~
+
+#Ignore temp filer
+tmp/**/*
